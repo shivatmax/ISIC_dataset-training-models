@@ -36,7 +36,7 @@ To use the models for classification tasks, follow these instructions:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/error9098x/Skin-Lesion-Classification.git
+   https://github.com/shivatmax/ISIC_skin-lesion-classification-model.git
    ```
 
 
