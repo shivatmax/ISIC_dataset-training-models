@@ -1,13 +1,14 @@
 # ISIC_dataset-training-models
 
-Model include-
+Tensorflow,pytorch,fastai
+
+## Model include-
 CNN
 VGG
 RESNET
 DENSENET
-SqueezeNet1.1 Model
+SqueezeNet
 
-ISIC dataset link - https://challenge.isic-archive.com/data/#2019
 
 # Skin-Lesion-Classification
 This GitHub repository contains image classification models for skin lesions using the ISIC dataset. The purpose of this project is to provide pre-trained models and code for classifying skin lesion images using four different models: ResNet152, VGG19, DenseNet201, and SqueezeNet1.1.
